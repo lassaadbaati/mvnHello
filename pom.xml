@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
 
   <name>HelloWorld Project</name>
-  <url>http://www.xavki.com</url>
+  <url>http://www.test.com</url>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
@@ -35,7 +35,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>src/main/resources/</classpathPrefix>
-              <mainClass>com.xavki.HelloWorld</mainClass>
+              <mainClass>com.test.HelloWorld</mainClass>
             </manifest>
           </archive>
         </configuration>
