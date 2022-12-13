@@ -1,4 +1,4 @@
-package com.lassaad;
+package com.test;
 public class HelloWorld {
   public static void main(String[] args) {
     HelloWorld myWorld = new HelloWorld();
